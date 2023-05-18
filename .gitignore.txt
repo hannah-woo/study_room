@@ -1,5 +1,0 @@
-.gitignore
-
-Stock_project/telegram_config
-
-Stock_project/__pycache__
